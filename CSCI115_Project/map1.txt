@@ -1,9 +1,10 @@
-5
-W E D S E
-E E D W W
-W D S E E
-S E W E W
-E W D E S
-0 0    // Player start position at (0,0)
-4 4    // Enemy 1 start position at (4,4)
-2 2    // Enemy 2 start position at (2,2)
+WWWWWWWWWW
+WTTTWTWTWW
+WTWTWDSTWW
+WTPTWTWTWW
+WTTTETWTWW
+WTWTWTDWWW
+WTWTWTTTWW
+WTWTWSTWWW
+WTTTTWTETW
+WWWWWWWWWW
